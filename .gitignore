@@ -1,0 +1,61 @@
+node_modules
+*~
+
+
+#PyCharm settings Files
+.idea/*
+
+# Don't ignore these files they are needed
+!.idea/dictionaries/*
+!.idea/inspectionProfiles/*
+!.idea/scopes/*
+!.idea/modules.xml
+# !.idea/*.iml
+
+
+# Ignore Compiled Python Modules
+*.pyc
+*.pyo
+
+# Django Helpers Storage File
+# STATIC_FILES_STORAGE
+# STATIC_FILES_REGISTER
+
+
+# Ignore .dev File
+.dev
+.dj-env
+
+# Ignore Virtual Env
+venv
+.venv
+
+
+# MAC OS X Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+.venv
+
+uploads
+
+Dataset
+archive
+dataset
+
+covid-chestxray-dataset-master
+
+variables
+
+.idea
